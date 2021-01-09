@@ -127,3 +127,9 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+.idea
+
+# Project ignores
+silmarillion.txt
+vanilla/model_checkpoints/*
+.DS_Store

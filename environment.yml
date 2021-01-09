@@ -1,0 +1,52 @@
+name: rnn-impl
+channels:
+  - defaults
+dependencies:
+  - appnope=0.1.2=py39hecd8cb5_1001
+  - backcall=0.2.0=py_0
+  - blas=1.0=openblas
+  - ca-certificates=2020.12.8=hecd8cb5_0
+  - certifi=2020.12.5=py39hecd8cb5_0
+  - decorator=4.4.2=py_0
+  - ipykernel=5.3.4=py39h01d92e1_0
+  - ipython=7.19.0=py39hecd8cb5_0
+  - ipython_genutils=0.2.0=pyhd3eb1b0_1
+  - jedi=0.18.0=py39hecd8cb5_0
+  - joblib=1.0.0=pyhd3eb1b0_0
+  - jupyter_client=6.1.7=py_0
+  - jupyter_core=4.7.0=py39hecd8cb5_0
+  - libcxx=10.0.0=1
+  - libedit=3.1.20191231=h1de35cc_1
+  - libffi=3.3=hb1e8313_2
+  - libgfortran=3.0.1=h93005f0_2
+  - libopenblas=0.3.10=h0794777_0
+  - libsodium=1.0.18=h1de35cc_0
+  - ncurses=6.2=h0a44026_1
+  - numpy=1.19.2=py39h0fa1045_0
+  - numpy-base=1.19.2=py39h3a452eb_0
+  - openssl=1.1.1i=h9ed2024_0
+  - parso=0.7.0=py_0
+  - pexpect=4.8.0=pyhd3eb1b0_3
+  - pickleshare=0.7.5=pyhd3eb1b0_1003
+  - pip=20.3.3=py39hecd8cb5_0
+  - prompt-toolkit=3.0.8=py_0
+  - ptyprocess=0.6.0=pyhd3eb1b0_2
+  - pygments=2.7.3=pyhd3eb1b0_0
+  - python=3.9.1=h88f2d9e_2
+  - python-dateutil=2.8.1=py_0
+  - pyzmq=20.0.0=py39h23ab428_1
+  - readline=8.0=h1de35cc_0
+  - setuptools=51.0.0=py39hecd8cb5_2
+  - six=1.15.0=py39hecd8cb5_0
+  - sqlite=3.33.0=hffcf06c_0
+  - tk=8.6.10=hb0a8c7a_0
+  - tornado=6.1=py39h9ed2024_0
+  - tqdm=4.55.0=pyhd3eb1b0_0
+  - traitlets=5.0.5=py_0
+  - tzdata=2020d=h14c3975_0
+  - wcwidth=0.2.5=py_0
+  - wheel=0.36.2=pyhd3eb1b0_0
+  - xz=5.2.5=h1de35cc_0
+  - zeromq=4.3.3=hb1e8313_3
+  - zlib=1.2.11=h1de35cc_3
+prefix: /Users/daniel/miniconda3/envs/rnn-impl
